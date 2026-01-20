@@ -1,0 +1,12 @@
+{
+  "SCAN_INTERFACE": "wlan0",
+  "SCAN_INTERVAL": 20,
+  "ALERT_COOLDOWN_SECS": 180,
+  "EMAIL_USER": "",
+  "EMAIL_PASS": "",
+  "EMAIL_TO": "",
+  "SMTP_SERVER": "smtp.gmail.com",
+  "SMTP_PORT": 587,
+  "EMAIL_ENABLED": true,
+  "KNOWN_HONEYPOT_SSIDS": "^(Free[_ ]?Public[_ ]?WiFi|Starbucks[_ ]?Free|Evil[_ ]?Twin(Net)?)$"
+}

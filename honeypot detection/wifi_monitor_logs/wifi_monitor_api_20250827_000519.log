@@ -1,0 +1,17 @@
+2025-08-27 00:05:19,993 - INFO - API Logging initialized. Log file: wifi_monitor_logs/wifi_monitor_api_20250827_000519.log
+2025-08-27 00:05:20,094 - INFO - API Logging initialized. Log file: wifi_monitor_logs/wifi_monitor_api_20250827_000520.log
+2025-08-27 00:05:20,120 - WARNING - Failed to update MAC vendor database: This event loop is already running
+2025-08-27 00:05:20,121 - INFO - WiFi monitoring worker started
+2025-08-27 00:05:20,121 - INFO - WiFi Monitor API started - Background monitoring initiated
+2025-08-27 00:05:20,122 - INFO - Starting WiFi scan #1
+2025-08-27 00:05:23,871 - INFO - Parsed 1 networks from scan
+2025-08-27 00:05:23,874 - ERROR - ALERT CREATED - UNTRUSTED: Vijaya Lakshmi 3rd flor (1c:3b:f3:f7:ce:43) - Unknown Vendor
+2025-08-27 00:05:23,875 - CRITICAL - NEW ALERTS TRIGGERED - Count: 1
+2025-08-27 00:06:23,875 - INFO - Starting WiFi scan #2
+2025-08-27 00:06:27,642 - INFO - Parsed 1 networks from scan
+2025-08-27 00:06:27,642 - ERROR - ALERT CREATED - UNTRUSTED: JioAirfiberA6 (20:b5:c6:71:94:e0) - Unknown Vendor
+2025-08-27 00:06:27,643 - CRITICAL - NEW ALERTS TRIGGERED - Count: 1
+2025-08-27 00:07:27,643 - INFO - Starting WiFi scan #3
+2025-08-27 00:07:31,421 - INFO - Parsed 1 networks from scan
+2025-08-27 00:07:31,421 - INFO - Suspicious networks in cooldown: 1
+2025-08-27 00:07:41,224 - INFO - WiFi Monitor API stopped

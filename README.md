@@ -1,6 +1,6 @@
 # Honeypot SSID Detection using Raspberry Pi
 
-This project implements a Raspberry Pi–based wireless security system that detects suspicious or honeypot Wi-Fi SSIDs, triggers real-time email alerts, and visualizes all detected activity through a web dashboard. It is designed for learning, experimentation, and research in wireless network security.
+This project implements a Raspberry Pi–based wireless security system that detects suspicious or honeypot Wi-Fi SSIDs, triggers real-time email alerts, and visualizes all detected activity through a web dashboard.
 
 ## Overview
 
@@ -25,5 +25,3 @@ The frontend is developed using React, providing a responsive and user-friendly 
 ## Purpose
 
 This project is intended for educational, academic, and security research use. It demonstrates practical concepts in wireless security, honeypot detection, alerting systems, and full-stack integration using embedded hardware.
-
-This project is open-source. Add a license file if required.
